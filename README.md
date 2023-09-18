@@ -27,13 +27,6 @@
 Ссылка на коммит
 https://github.com/stkv1/gitlab-hw/commit/eabf42236a786139d4b7966cb492674d9bd24d37
 
-!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/103.PNG)
-!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/105.PNG)
-!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/106.PNG)
-!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/109.PNG)
-!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/110.PNG)
-!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/111.PNG)
-
 ---
 
 ### Задание 2
