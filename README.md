@@ -27,12 +27,12 @@
 Ссылка на коммит
 https://github.com/stkv1/gitlab-hw/commit/eabf42236a786139d4b7966cb492674d9bd24d37
 
-!\[alt text](https://github.com/stkv1/gitlab-hw/blob/main/img/103.png)
-!\[alt text](https://github.com/stkv1/gitlab-hw/blob/main/img/104.png)
-!\[alt text](https://github.com/stkv1/gitlab-hw/blob/main/img/108.png)
-!\[alt text](https://github.com/stkv1/gitlab-hw/blob/main/img/109.png)
-!\[alt text](https://github.com/stkv1/gitlab-hw/blob/main/img/110.png)
-!\[alt text](https://github.com/stkv1/gitlab-hw/blob/main/img/111.png)
+!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/103.PNG)
+!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/105.PNG)
+!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/108.PNG)
+!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/109.PNG)
+!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/110.PNG)
+!\[---](https://github.com/stkv1/gitlab-hw/blob/main/img/111.PNG)
 
 
 ---
